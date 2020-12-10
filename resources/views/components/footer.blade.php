@@ -61,7 +61,7 @@
   <!-- Footer Links -->
 
   <!-- Copyright -->
-  <div class="footer-copyright text-center py-3">There is no copyright on this tool. You are free to use, download and edit it as you please.
+  <div class="footer-copyright text-center py-3">You are free to use, download and edit it as you please.
   </div>
   <!-- Copyright -->
 
